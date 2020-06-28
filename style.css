@@ -1,0 +1,44 @@
+body {
+    width: 100%;
+}
+
+.header {
+    width: 100%;
+    text-align: center;
+
+}
+
+.blok1 {
+    width: 400px;
+    height: auto;
+    float: left;
+    text-align: center;
+    margin: 65px;
+
+}
+
+.name {
+    text-align: center;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    border-bottom: 10px;
+    font-weight: lighter;
+    font-family: cursive;
+    padding-bottom: 15px;
+    border-bottom: 3px solid rgb(219, 57, 8);
+
+}
+
+p {
+    color: grey;
+    font-size: small;
+}
+
+.image {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
